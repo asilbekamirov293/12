@@ -1,0 +1,35 @@
+.box {
+    border: solid green 10px;
+    width: 75px;
+}
+.box2 {
+    border: dashed green 10px;
+    width: 75px;
+}
+.box3 {
+    border: dotted green 10px;
+    width: 75px;
+}
+.box4 {
+    border: double green 10px;
+    width: 75px;
+}
+.box5 {
+    border: ridge green 10px;
+    width: 75px;
+}
+.box6 {
+    width: 75px;
+}
+.box7 {
+    border: groove green 10px;
+    width: 75px;
+}
+.box8 {
+    border: inset green 10px;
+    width: 75px;
+}
+.box9 {
+    border: outset green 10px;
+    width: 75px;
+}
